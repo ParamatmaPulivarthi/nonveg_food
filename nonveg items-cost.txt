@@ -1,0 +1,11 @@
+"food item name"~cost
+"chicken birayani"~200
+"butter chicken"~300
+"mutton curry"~200
+"panner tikka eggroll"~100
+"spinach prawns"~300
+"fish curry"~200
+"chicken manchuriyan"~100
+"tandoori chicken"~200
+"dal ghost"~300
+"egg kurma"~100
